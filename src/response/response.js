@@ -410,6 +410,17 @@ const response = [
         category: 'family',
         copy:
             'End 2019 with a party you’ll not soon forget! The Marina Bay Singapore Countdown returns, to usher in the new year with fireworks displays lighting up the night sky alongside a host of exciting activities on the streets.'
+    },
+    {
+        name: 'Weekend in Dallas',
+        id: 38,
+        image: 'dallas.jpg',
+        dateFrom: 'March 2nd 2020',
+        dateTo: 'March 4th 2020',
+        guests: 2,
+        category: 'weekend trip',
+        copy:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     }
 ]
 
